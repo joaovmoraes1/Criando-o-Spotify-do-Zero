@@ -1,6 +1,7 @@
 Spotify Clone - HTML, CSS & Javascript
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ecc24626-add2-4423-b479-f33db6bb563c)
+
 
 
 Este repositório contém um clone básico do Spotify, construído com HTML, CSS e Javascript. O projeto demonstra a estrutura visual e algumas funcionalidades básicas da plataforma de streaming de música, como:
